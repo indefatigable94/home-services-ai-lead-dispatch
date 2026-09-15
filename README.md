@@ -1,6 +1,6 @@
 # Moved
 
-This portfolio now lives on the Fluxdwell repo:
+This portfolio lives at:
 
 **https://github.com/indefatigable94/Fluxdwell**
 

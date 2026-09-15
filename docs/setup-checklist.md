@@ -44,7 +44,6 @@ Reproduce the Princeton Heating & Air lead intake chain without guessing.
 
 ## 5. Walkthrough recording
 
-- [ ] Record 3–5 minutes using [`loom-walkthrough.md`](../loom-walkthrough.md)
 - [ ] Hide API keys, private numbers, and webhook secrets
 - [ ] Export as `Habeeb_Olajide_Retell_n8n_Walkthrough.mp4` if submitting to an application form
 
